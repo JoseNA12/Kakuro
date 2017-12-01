@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/main.py" line="448" />
+    <bookmark url="file://$PROJECT_DIR$/SolucionadorK.py" line="590" mnemonic="8" />
+    <bookmark url="file://$PROJECT_DIR$/SolucionadorK.py" line="294" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d577ce2a-d23c-4b96-b934-78e934a7265a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/baseRefactoring.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Proyecto_2_AA" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="291" column="30" lean-forward="true" selection-start-line="291" selection-start-column="30" selection-end-line="291" selection-end-column="30" />
+              <folding>
+                <element signature="e#57#78#0" expanded="true" />
+                <element signature="e#4652#4977#0" expanded="false" />
+                <element signature="e#5031#5333#0" expanded="false" />
+                <element signature="e#5420#6361#0" expanded="false" />
+                <element signature="e#5918#6361#0" expanded="false" />
+                <element signature="e#5925#6341#0" expanded="false" />
+                <element signature="e#6446#7390#0" expanded="false" />
+                <element signature="e#7460#7855#0" expanded="false" />
+                <element signature="e#11530#12844#0" expanded="false" />
+                <element signature="e#19306#19705#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SolucionadorK.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SolucionadorK.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-51">
+              <caret line="728" column="48" lean-forward="false" selection-start-line="728" selection-start-column="48" selection-end-line="728" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ObtenerDigitos</find>
+      <find>celdasUnicas_V</find>
+      <find>combos</find>
+      <find>variablesBacktracking</find>
+      <find>solucion</find>
+      <find>LlenarCeldaUnica</find>
+      <find>digitoCoordenadas</find>
+      <find>minimoRestante</find>
+      <find>intersecar</find>
+      <find>Resolver</find>
+      <find>limite</find>
+      <find>solucionesParciales</find>
+      <find>print</find>
+      <find>EjecutarFuncionConHilos</find>
+      <find>slow_square_even</find>
+      <find>load_url</find>
+      <find>run</find>
+      <find>ProbarPosibilidades</find>
+      <find>AniadirDigitoEncontrado</find>
+      <find>ObtenerCombinaciones</find>
+      <find>ObtenerSumas</find>
+      <find>Celda</find>
+      <find>Backtracking</find>
+      <find>Rehacer</find>
+      <find>EjecutarForkHilo</find>
+      <find>aniadirCelda</find>
+      <find>thread</find>
+      <find>raise</find>
+      <find>LlenarCelda</find>
+      <find>LlenarCeldas</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>intersecar</replace>
+      <replace>secuencias</replace>
+      <replace>digitoCoordenadas</replace>
+      <replace>coordenadas</replace>
+      <replace>todosLosDigitos</replace>
+      <replace>digitosRequeridos</replace>
+      <replace>digitoEncontrado</replace>
+      <replace>digitosEncontrados</replace>
+      <replace>solucionParcial</replace>
+      <replace>llave</replace>
+      <replace>cuentaLlena</replace>
+      <replace>validos</replace>
+      <replace>valores</replace>
+      <replace>eliminado</replace>
+      <replace>coordenadasPrueba</replace>
+      <replace>coordenadaPrueba</replace>
+      <replace>suponerCoordsHorizontales</replace>
+      <replace>Celda</replace>
+      <replace>celda</replace>
+      <replace>celdasUnicas_H</replace>
+      <replace>celdasUnicas_V</replace>
+      <replace>aniadirCelda</replace>
+      <replace>celdasHorizontales</replace>
+      <replace>celdasVerticales</replace>
+      <replace>solucionador</replace>
+      <replace>DiccionarioCelda</replace>
+      <replace>diccionarioCelda</replace>
+      <replace>CeldaGenerador</replace>
+      <replace>self.matrizHorizontal</replace>
+      <replace>ObtenerKakuro</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TipoCelda.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/HiloBase.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pruebass.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Hilo.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Pruebas.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/multiproc_test.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/intefarzPrueba.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/thread_test.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Celda.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Casilla.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/prueba.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/SolucionadorK.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Threating test.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Hilo_Pruebas_2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ThreadPool_2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/GenerarKakuros.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/threadPool.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Fork.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/HiloOriginal.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Kakuros/SolKakuroMedium.txt" />
+        <option value="$PROJECT_DIR$/../kakuro-solver-master/kakuro_solver.py" />
+        <option value="$PROJECT_DIR$/kakuro_solverOriginal.py" />
+        <option value="$PROJECT_DIR$/Kakuros/JOJOJOJO.py" />
+        <option value="$PROJECT_DIR$/Celdaa.py" />
+        <option value="$PROJECT_DIR$/celda.py" />
+        <option value="$PROJECT_DIR$/joojojooj.py" />
+        <option value="$PROJECT_DIR$/PUTAMIERDA.py" />
+        <option value="$PROJECT_DIR$/TipoCelda.py" />
+        <option value="$PROJECT_DIR$/Tablero.py" />
+        <option value="$PROJECT_DIR$/Casilla.py" />
+        <option value="$PROJECT_DIR$/PosicionEnMatriz.py" />
+        <option value="$PROJECT_DIR$/ArchivoTemp.py" />
+        <option value="$PROJECT_DIR$/Generador.py" />
+        <option value="$PROJECT_DIR$/Threating test.py" />
+        <option value="$PROJECT_DIR$/Hilos.py" />
+        <option value="$PROJECT_DIR$/kakuro_solver-ENG.py" />
+        <option value="$PROJECT_DIR$/Inter_1.py" />
+        <option value="$PROJECT_DIR$/Pruebassss.py" />
+        <option value="$PROJECT_DIR$/Ejecucion.py" />
+        <option value="$PROJECT_DIR$/KakuroGS.py" />
+        <option value="$PROJECT_DIR$/kakuro_generator.py" />
+        <option value="$PROJECT_DIR$/kakuro_solver.py" />
+        <option value="$PROJECT_DIR$/HiloBase_3.py" />
+        <option value="$PROJECT_DIR$/HiloBase_2.py" />
+        <option value="$PROJECT_DIR$/Hilo_2.py" />
+        <option value="$PROJECT_DIR$/HiloOriginal.py" />
+        <option value="$PROJECT_DIR$/Solucionador.py" />
+        <option value="$PROJECT_DIR$/Celda.py" />
+        <option value="$PROJECT_DIR$/GenerarK.py" />
+        <option value="$PROJECT_DIR$/ValidarK.py" />
+        <option value="$PROJECT_DIR$/Hilo.py" />
+        <option value="$PROJECT_DIR$/multiproc_test.py" />
+        <option value="$PROJECT_DIR$/thread_test.py" />
+        <option value="$PROJECT_DIR$/Fork.py" />
+        <option value="$PROJECT_DIR$/PruebaHilo.py" />
+        <option value="$USER_HOME$/Desktop/kakuro-solver-master/kakuro_solver-ENG.py" />
+        <option value="$PROJECT_DIR$/jsjajaj.py" />
+        <option value="$PROJECT_DIR$/intefarzPrueba.py" />
+        <option value="$PROJECT_DIR$/HiloBase.py" />
+        <option value="$PROJECT_DIR$/ProcessingPrueba.py" />
+        <option value="$PROJECT_DIR$/prueba.py" />
+        <option value="$PROJECT_DIR$/threadPool.py" />
+        <option value="$PROJECT_DIR$/threadPool_2.py" />
+        <option value="$PROJECT_DIR$/ThreadPool_2.py" />
+        <option value="$PROJECT_DIR$/Hilo_Pruebas_2.py" />
+        <option value="$PROJECT_DIR$/Pruebas.py" />
+        <option value="$PROJECT_DIR$/Memoize.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/GenerarKakuros.py" />
+        <option value="$PROJECT_DIR$/SolucionadorK.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="140" />
+    <option name="y" value="76" />
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Python</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Proyecto_2_AA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyecto_2_AA" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Proyecto_2_AA" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Proyecto_2_AA" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Hilo_Pruebas_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Proyecto_2_AA" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hilo_Pruebas_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Pruebas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Proyecto_2_AA" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pruebas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="ThreadPool_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Proyecto_2_AA" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ThreadPool_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Proyecto_2_AA" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="threadPool" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Proyecto_2_AA" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/threadPool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.threadPool" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ThreadPool_2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Hilo_Pruebas_2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Pruebas" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Pruebas" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Hilo_Pruebas_2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ThreadPool_2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.threadPool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d577ce2a-d23c-4b96-b934-78e934a7265a" name="Default" comment="" />
+      <created>1506049958708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506049958708</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18986385" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30810812" sideWeight="0.508596" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837838" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36081082" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28782895" sideWeight="0.491404" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32567567" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837838" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="78" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/test/test_logging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3306">
+          <caret line="624" column="42" lean-forward="false" selection-start-line="624" selection-start-column="42" selection-end-line="624" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.777/__init__.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/enum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="323" column="0" lean-forward="false" selection-start-line="323" selection-start-column="0" selection-end-line="323" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakuro_solver-ENG.py" />
+    <entry file="file://$PROJECT_DIR$/GenerarKakuros_MIO.py" />
+    <entry file="file://$PROJECT_DIR$/KakuroGS.py" />
+    <entry file="file://$PROJECT_DIR$/kakuro_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inter_1.py" />
+    <entry file="file://$PROJECT_DIR$/PosicionEnMatriz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArchivoTemp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejecucion.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.746/generate.py" />
+    <entry file="file://$PROJECT_DIR$/SolucionadorK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5984">
+          <caret line="356" column="33" lean-forward="false" selection-start-line="356" selection-start-column="33" selection-end-line="356" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TipoCelda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tablero.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HiloBase_3.py" />
+    <entry file="file://$PROJECT_DIR$/HiloBase_2.py" />
+    <entry file="file://$PROJECT_DIR$/Casilla.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="256" column="0" lean-forward="false" selection-start-line="256" selection-start-column="0" selection-end-line="256" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ValidarK.py" />
+    <entry file="file://$PROJECT_DIR$/GenerarK.py" />
+    <entry file="file://$PROJECT_DIR$/multiproc_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="62" lean-forward="false" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="11" lean-forward="true" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="97" column="22" lean-forward="false" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PruebaHilo.py" />
+    <entry file="file://$USER_HOME$/Desktop/kakuro-solver-master/kakuro_solver-ENG.py" />
+    <entry file="file://$PROJECT_DIR$/Celda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="56" column="24" lean-forward="false" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/test/test_asyncio/test_locks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="74" column="23" lean-forward="false" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-266967741/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6575">
+          <caret line="3601" column="8" lean-forward="false" selection-start-line="3601" selection-start-column="8" selection-end-line="3601" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pruebass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="67" column="43" lean-forward="false" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="2292" column="0" lean-forward="false" selection-start-line="2292" selection-start-column="0" selection-end-line="2292" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/tkinter/ttk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="741" column="0" lean-forward="false" selection-start-line="741" selection-start-column="0" selection-end-line="741" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/multiprocessing/reduction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hilo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="33" column="51" lean-forward="true" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HiloOriginal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/multiprocessing/dummy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="114" column="4" lean-forward="false" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="260" column="8" lean-forward="false" selection-start-line="260" selection-start-column="8" selection-end-line="260" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProcessingPrueba.py" />
+    <entry file="file://$PROJECT_DIR$/threadPool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="10" lean-forward="false" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threating test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="79" lean-forward="true" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThreadPool_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HiloBase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="845" column="0" lean-forward="false" selection-start-line="845" selection-start-column="0" selection-end-line="845" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="39" column="22" lean-forward="false" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pruebas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="239" column="8" lean-forward="false" selection-start-line="239" selection-start-column="8" selection-end-line="239" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Memoize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="291" column="30" lean-forward="true" selection-start-line="291" selection-start-column="30" selection-end-line="291" selection-end-column="30" />
+          <folding>
+            <element signature="e#57#78#0" expanded="true" />
+            <element signature="e#4652#4977#0" expanded="false" />
+            <element signature="e#5031#5333#0" expanded="false" />
+            <element signature="e#5420#6361#0" expanded="false" />
+            <element signature="e#5918#6361#0" expanded="false" />
+            <element signature="e#5925#6341#0" expanded="false" />
+            <element signature="e#6446#7390#0" expanded="false" />
+            <element signature="e#7460#7855#0" expanded="false" />
+            <element signature="e#11530#12844#0" expanded="false" />
+            <element signature="e#19306#19705#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intefarzPrueba.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="66" lean-forward="false" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hilo_Pruebas_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="19" column="43" lean-forward="false" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="e#19#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GenerarKakuros.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2317">
+          <caret line="203" column="0" lean-forward="true" selection-start-line="203" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
+          <folding>
+            <element signature="e#7481#12655#0" expanded="false" />
+            <element signature="e#12701#18850#0" expanded="false" />
+            <element signature="e#18915#21346#0" expanded="false" />
+            <element signature="e#21395#23164#0" expanded="false" />
+            <element signature="e#23209#26616#0" expanded="false" />
+            <element signature="e#26723#28518#0" expanded="false" />
+            <element signature="e#31716#32054#0" expanded="false" />
+            <element signature="e#32110#32448#0" expanded="false" />
+            <element signature="e#32500#32845#0" expanded="false" />
+            <element signature="e#32899#33244#0" expanded="false" />
+            <element signature="e#33298#33637#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SolucionadorK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="728" column="48" lean-forward="false" selection-start-line="728" selection-start-column="48" selection-end-line="728" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
